@@ -15,7 +15,7 @@ Here Pokemons app 2022 backend created with postgres, express and sequelize
 * Get Params Route ☞ https://pokemons-2022.herokuapp.com/pokemons/:id to filter by pokemon id into database pokemons.
 * Get Pokemon Types Route ☞ https://pokemons-2022.herokuapp.com/types
 
-☢ <a href="#">pokemons-app-2022</a>
+☢ Check out the project frontend ☞ <a href="https://pokemons-app-2022.vercel.app/">pokemons-app-2022</a>
 
 ## Contact info:
 <p>linkedIn ☞ <a href="https://www.linkedin.com/in/zayra-velasco">zayra velasco</a></p>
